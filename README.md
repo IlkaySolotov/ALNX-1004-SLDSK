@@ -1,7 +1,17 @@
-# Windows-DiskP2C-Exploit
-Process escalation exploit abusing DiskCleanup registrys
+# ALNX-1004-SLDSK
+UAC-Bypass Exploiting DiskCleanup RegKeys
 
-MS SilentCleanup runs with administrator privileges, so we can abuse of it
-to edit regkey and start our payload, here's a PoC.
+```yaml
+TargetOS: Win10
+TestedOn: Win10-2004 SO 19041.630
+Language: C#
+Patch: n/a
+Danger: 8
+Classification: ALNX-1004-SLDSK
+```
 
-Tested on: Win10-2004 SO 19041.630
+**_Explaination_**
+```css
+<span style="color:blue">some *blue* text</span>.
+```
+
