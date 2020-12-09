@@ -11,7 +11,7 @@ Classification: ALNX-1004-SLDSK
 ```
 
 **_Explaination_**
-```css
+```html
 <span style="color:blue">some *blue* text</span>.
 ```
 
